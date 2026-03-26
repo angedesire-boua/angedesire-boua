@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ange Désiré Boua
+# 👋 Hi, I'm Zoumandrey Ange Désiré Boua
 
 🎓 Master’s student in Big Data & Artificial Intelligence
 
@@ -24,8 +24,8 @@ I work on end-to-end projects including:
 ## 🛠️ Tech Stack
 
 **Languages & Tools**
-- Python 🐍
-- SQL 🗄️
+- Python 
+- SQL 
 - R (basic)
 
 **Data Science**

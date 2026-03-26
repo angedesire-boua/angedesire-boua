@@ -2,9 +2,9 @@
 
 🎓 Master’s student in Big Data & Artificial Intelligence
 
-💡 Aspiring Data Scientist & Machine Learning Engineer
+ Aspiring Data Scientist & Machine Learning Engineer
 
-📍 Abidjan, Côte d’Ivoire  
+ Abidjan, Côte d’Ivoire  
 
 ---
 

@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Zoumandrey Ange Désiré Boua
+# Salut, je suis Zoumandrey Ange Désiré Boua
 
 🎓 Étudiant en **Master Big Data & Intelligence Artificielle**  
 📊 Passionné par la **Data Science**, le **Machine Learning** et l’**analyse de données**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 Je suis passionné par la création de solutions intelligentes basées sur les données pour résoudre des problèmes concrets.
 
@@ -24,7 +24,7 @@ Je travaille sur des projets **de bout en bout**, allant de :
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 ### **Langages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +48,7 @@ Je travaille sur des projets **de bout en bout**, allant de :
 
 ---
 
-## 📊 Projets phares
+##  Projets phares
 
 ### 🏠 Prédiction du prix des maisons
 Application de Machine Learning permettant d’estimer le prix d’un bien immobilier à partir de ses caractéristiques.
@@ -116,21 +116,13 @@ Mon ambition est de développer des solutions utiles, intelligentes et orientée
 
 ---
 
-## 📈 Statistiques GitHub
-
-![Ange's GitHub stats](https://github-readme-stats.vercel.app/api?username=angedesire-boua&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angedesire-boua&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Me contacter
 
-- 💼 LinkedIn : [Ange Désiré Boua](https://www.linkedin.com/in/ange-désiré-boua-661074274)
-- 📧 Email : **angedesireboua@gmail.com**
+-  LinkedIn : [Ange Désiré Boua](https://www.linkedin.com/in/ange-désiré-boua-661074274)
+-  Email : **angedesireboua@gmail.com**
 
 ---
 
-## ⚡ En quelques mots
+##  En quelques mots
 
 J’aime transformer les **données brutes** en **insights exploitables**, en **modèles intelligents** et en **applications concrètes** 🚀

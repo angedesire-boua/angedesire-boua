@@ -1,6 +1,6 @@
 # Salut, je suis Zoumandrey Ange Désiré Boua
 
-🎓 Étudiant en **Master Big Data & Intelligence Artificielle**  
+🎓 Étudiant en **Master 2 Big Data & Intelligence Artificielle**  
 📊 Passionné par la **Data Science**, le **Machine Learning** et l’**analyse de données**  
 📍 Basé à **Abidjan, Côte d’Ivoire**
 

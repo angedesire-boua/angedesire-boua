@@ -1,128 +1,186 @@
-# Salut, je suis Zoumandrey Ange Désiré Boua
+<div align="center">
 
-🎓 Étudiant en **Master 2 Big Data & Intelligence Artificielle**  
-📊 Passionné par la **Data Science**, le **Machine Learning** et l’**analyse de données**  
-📍 Basé à **Abidjan, Côte d’Ivoire**
+# 👋 Hi, I'm Ange Désiré Boua
 
----
+### 🎓 Master's Student in Big Data & Artificial Intelligence
 
-##  À propos de moi
+### 💻 Aspiring Data Scientist | Machine Learning Engineer | AI Enthusiast
 
-Je suis passionné par la création de solutions intelligentes basées sur les données pour résoudre des problèmes concrets.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+End-to-End+Data+Science+Projects;Machine+Learning+%7C+Explainable+AI+%7C+Business+Analytics;Turning+Data+into+Actionable+Business+Insights" />
 
-Mon objectif est de devenir un **Data Scientist** capable de :
-- concevoir des modèles prédictifs performants
-- analyser et valoriser les données
-- développer des applications utiles et déployables
-- contribuer à des projets à fort impact en **IA** et en **Data**
-
-Je travaille sur des projets **de bout en bout**, allant de :
-- la **préparation des données**
-- la **modélisation en Machine Learning**
-- l’**évaluation des performances**
-- jusqu’au **déploiement d’applications interactives**
+</div>
 
 ---
 
-##  Stack Technique
+# 🚀 About Me
 
-### **Langages**
+I'm a Master's student specializing in **Big Data & Artificial Intelligence**, passionate about building **end-to-end Data Science solutions** that solve real business problems.
+
+My interests include:
+
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🧠 Explainable AI
+- 📈 Business Analytics
+- 🌐 Streamlit Applications
+- 📉 Predictive Modeling
+- 🕸️ Graph Machine Learning
+
+I enjoy transforming raw datasets into intelligent models and interactive applications that support real-world decision making.
+
+---
+
+# 🛠 Tech Stack
+
+## Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### **Data Science & Machine Learning**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+---
 
-### **Outils & Plateformes**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+![SHAP](https://img.shields.io/badge/SHAP-ExplainableAI-blue?style=for-the-badge)
+
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
+
+![LightGBM](https://img.shields.io/badge/LightGBM-green?style=for-the-badge)
 
 ---
 
-##  Projets phares
+## Visualization
 
-### 🏠 Prédiction du prix des maisons
-Application de Machine Learning permettant d’estimer le prix d’un bien immobilier à partir de ses caractéristiques.
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
 
-- Modèle : **Random Forest**
-- Déploiement via **Streamlit**
-- Analyse de données immobilières
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 
-👉 [Voir le projet](https://github.com/angedesire-boua/house-price-prediction)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
 ---
 
-### 💳 Prédiction du risque de crédit
-Projet d’analyse et de classification visant à prédire la probabilité de défaut de paiement d’un client.
+## Deployment
 
-- Prétraitement des données
-- Feature Engineering
-- Modèles de classification
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
 
-👉 [Voir le projet](https://github.com/angedesire-boua/credit-risk-prediction)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
----
-
-### 📈 Analyse des ventes d’un supermarché
-Projet d’analyse exploratoire de données (EDA) appliqué à des données de ventes.
-
-- Nettoyage des données
-- Visualisation
-- Insights métier
-
-👉 [Voir le projet](https://github.com/angedesire-boua/supermarket-sales-analysis)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
-### 📊 Dashboard d’analyse des ventes (Power BI)
-Tableau de bord interactif conçu pour analyser les performances commerciales.
+# 🌟 Featured Projects
 
-- Suivi des KPI
-- Analyse des ventes
-- Visualisation décisionnelle
+## 📊 Customer NPS Prediction *(Featured)*
 
-👉 [Voir le projet](https://github.com/angedesire-boua/product-sales-dashboard-powerbi)
+**Artefact Junior Data Scientist Technical Challenge**
 
----
+An end-to-end Machine Learning project for predicting customer satisfaction in the telecommunications industry.
 
-## 📚 En ce moment, j’apprends / je développe
+### Highlights
 
-- Approfondissement de **Python pour la Data Science**
-- Développement de projets **Machine Learning de bout en bout**
-- Analyse de données et **dashboarding avec Power BI**
-- Construction d’un portfolio solide en **Data / IA**
+- End-to-End ML Pipeline
+- Random Forest
+- SHAP Explainability
+- Streamlit Application
+- Individual Prediction
+- Batch Prediction
+- Business Recommendations
 
----
+**Repository**
 
-## 🎯 Objectif professionnel
-
-Je souhaite évoluer vers des postes tels que :
-
-- **Data Scientist**
-- **Data Analyst**
-- **Machine Learning Engineer**
-- **BI / Data Engineer (à long terme)**
-
-Mon ambition est de développer des solutions utiles, intelligentes et orientées impact.
+👉 https://github.com/angedesire-boua/customer-nps-prediction
 
 ---
 
-## 📫 Me contacter
+## 💳 Credit Risk Prediction
 
--  LinkedIn : [Ange Désiré Boua](https://www.linkedin.com/in/ange-désiré-boua-661074274)
--  Email : **angedesireboua@gmail.com**
+Machine Learning application for predicting customer default risk.
+
+👉 https://github.com/angedesire-boua/credit-risk-prediction
 
 ---
 
-##  En quelques mots
+## 🏠 House Price Prediction
 
-J’aime transformer les **données brutes** en **insights exploitables**, en **modèles intelligents** et en **applications concrètes** 🚀
+End-to-end regression project with Streamlit deployment.
+
+👉 https://github.com/angedesire-boua/house-price-prediction
+
+---
+
+## 📈 Supermarket Sales Analysis
+
+Business Intelligence and Exploratory Data Analysis project.
+
+👉 https://github.com/angedesire-boua/supermarket-sales-analysis
+
+---
+
+## 📊 Sales Dashboard (Power BI)
+
+Interactive dashboard for commercial performance monitoring.
+
+👉 https://github.com/angedesire-boua/product-sales-dashboard-powerbi
+
+---
+
+# 🌱 Currently Working On
+
+- 🎓 Master's Thesis:
+  **Dynamic Graph Neural Networks for Mobile Money Fraud Detection**
+
+- 🤖 Explainable AI
+
+- 📊 Advanced Machine Learning
+
+- ☁️ MLOps
+
+- 🕸️ Graph Machine Learning
+
+---
+
+# 🎯 Career Objective
+
+I am currently looking for opportunities as:
+
+- Data Scientist Intern
+- Machine Learning Intern
+- Data Analyst Intern
+
+where I can contribute to impactful AI projects while continuing to grow as a Data Science professional.
+
+---
+
+# 📫 Connect with Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/ange-désiré-boua-661074274
+
+📧
+
+angedesireboua@gmail.com
+
+🐙 GitHub
+
+https://github.com/angedesire-boua
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning data into intelligent solutions."*
+
+</div>

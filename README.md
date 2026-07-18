@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Ange Désiré Boua
+#  Hi, I'm Ange Désiré Boua
 
-### 🎓 Master 2 Student in Big Data & Artificial Intelligence
+###  Master 2 Student in Big Data & Artificial Intelligence
 
-### 💻 Aspiring Data Scientist | Machine Learning Engineer | AI Enthusiast
+###  Aspiring Data Scientist | Machine Learning Engineer | AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+End-to-End+Data+Science+Projects;Machine+Learning+%7C+Explainable+AI+%7C+Business+Analytics;Turning+Data+into+Actionable+Business+Insights" />
 
@@ -12,25 +12,25 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I'm a Master 2 student specializing in **Big Data & Artificial Intelligence**, passionate about building **end-to-end Data Science solutions** that solve real business problems.
 
 My interests include:
 
-- 🤖 Machine Learning
-- 📊 Data Science
-- 🧠 Explainable AI
-- 📈 Business Analytics
-- 🌐 Streamlit Applications
-- 📉 Predictive Modeling
-- 🕸️ Graph Machine Learning
+-  Machine Learning
+-  Data Science
+-  Explainable AI
+-  Business Analytics
+-  Streamlit Applications
+-  Predictive Modeling
+-  Graph Machine Learning
 
 I enjoy transforming raw datasets into intelligent models and interactive applications that support real-world decision making.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Programming
 
@@ -78,9 +78,9 @@ I enjoy transforming raw datasets into intelligent models and interactive applic
 
 ---
 
-# 🌟 Featured Projects
+#  Featured Projects
 
-## 📊 Customer NPS Prediction *(Featured)*
+##  Customer NPS Prediction *(Featured)*
 
 **Artefact Junior Data Scientist Technical Challenge**
 
@@ -98,58 +98,58 @@ An end-to-end Machine Learning project for predicting customer satisfaction in t
 
 **Repository**
 
-👉 https://github.com/angedesire-boua/customer-nps-prediction
+ https://github.com/angedesire-boua/customer-nps-prediction
 
 ---
 
-## 💳 Credit Risk Prediction
+##  Credit Risk Prediction
 
 Machine Learning application for predicting customer default risk.
 
-👉 https://github.com/angedesire-boua/credit-risk-prediction
+ https://github.com/angedesire-boua/credit-risk-prediction
 
 ---
 
-## 🏠 House Price Prediction
+##  House Price Prediction
 
 End-to-end regression project with Streamlit deployment.
 
-👉 https://github.com/angedesire-boua/house-price-prediction
+ https://github.com/angedesire-boua/house-price-prediction
 
 ---
 
-## 📈 Supermarket Sales Analysis
+##  Supermarket Sales Analysis
 
 Business Intelligence and Exploratory Data Analysis project.
 
-👉 https://github.com/angedesire-boua/supermarket-sales-analysis
+ https://github.com/angedesire-boua/supermarket-sales-analysis
 
 ---
 
-## 📊 Sales Dashboard (Power BI)
+##  Sales Dashboard (Power BI)
 
 Interactive dashboard for commercial performance monitoring.
 
-👉 https://github.com/angedesire-boua/product-sales-dashboard-powerbi
+ https://github.com/angedesire-boua/product-sales-dashboard-powerbi
 
 ---
 
-# 🌱 Currently Working On
+#  Currently Working On
 
-- 🎓 Master's Thesis:
+-  Master's Thesis:
   **Dynamic Graph Neural Networks for Mobile Money Fraud Detection**
 
-- 🤖 Explainable AI
+-  Explainable AI
 
-- 📊 Advanced Machine Learning
+-  Advanced Machine Learning
 
-- ☁️ MLOps
+-  MLOps
 
-- 🕸️ Graph Machine Learning
+-  Graph Machine Learning
 
 ---
 
-# 🎯 Career Objective
+#  Career Objective
 
 I am currently looking for opportunities as:
 
@@ -161,17 +161,17 @@ where I can contribute to impactful AI projects while continuing to grow as a Da
 
 ---
 
-# 📫 Connect with Me
+#  Connect with Me
 
-💼 LinkedIn
+ LinkedIn
 
 https://www.linkedin.com/in/ange-désiré-boua-661074274
 
-📧
+
 
 angedesireboua@gmail.com
 
-🐙 GitHub
+ GitHub
 
 https://github.com/angedesire-boua
 
@@ -179,7 +179,7 @@ https://github.com/angedesire-boua
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 *"Turning data into intelligent solutions."*
 

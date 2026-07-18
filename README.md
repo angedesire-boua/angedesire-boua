@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ange Désiré Boua
 
-### 🎓 Master's Student in Big Data & Artificial Intelligence
+### 🎓 Master 2 Student in Big Data & Artificial Intelligence
 
 ### 💻 Aspiring Data Scientist | Machine Learning Engineer | AI Enthusiast
 
@@ -14,7 +14,7 @@
 
 # 🚀 About Me
 
-I'm a Master's student specializing in **Big Data & Artificial Intelligence**, passionate about building **end-to-end Data Science solutions** that solve real business problems.
+I'm a Master 2 student specializing in **Big Data & Artificial Intelligence**, passionate about building **end-to-end Data Science solutions** that solve real business problems.
 
 My interests include:
 

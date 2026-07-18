@@ -80,7 +80,7 @@ I enjoy transforming raw datasets into intelligent models and interactive applic
 
 #  Featured Projects
 
-##  Customer NPS Prediction *(Featured)*
+##  Customer NPS Prediction 
 
 **Artefact Junior Data Scientist Technical Challenge**
 

@@ -6,7 +6,7 @@
 
 ### Futur Data Scientist | Machine Learning Engineer | Passionné d’Intelligence Artificielle
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Je+conçois+des+projets+Data+Science+de+bout+en+bout;Machine+Learning+%7C+IA+explicable+%7C+Business+Analytics;Transformer+les+données+en+solutions+à+fort+impact+métier" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+End-to-End+Data+Science+Projects;Machine+Learning+%7C+Explainable+AI+%7C+Business+Analytics;Turning+Data+into+Actionable+Business+Insights" /> </div>
 
 </div>
 

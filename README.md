@@ -1,186 +1,184 @@
 <div align="center">
 
-#  Hi, I'm Ange Désiré Boua
+# Salut, je suis Ange Désiré Boua
 
-###  Master 2 Student in Big Data & Artificial Intelligence
+### Étudiant en Master 2 Big Data & Intelligence Artificielle
 
-###  Aspiring Data Scientist | Machine Learning Engineer | AI Enthusiast
+### Futur Data Scientist | Machine Learning Engineer | Passionné d’Intelligence Artificielle
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+End-to-End+Data+Science+Projects;Machine+Learning+%7C+Explainable+AI+%7C+Business+Analytics;Turning+Data+into+Actionable+Business+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Je+conçois+des+projets+Data+Science+de+bout+en+bout;Machine+Learning+%7C+IA+explicable+%7C+Business+Analytics;Transformer+les+données+en+solutions+à+fort+impact+métier" />
 
 </div>
 
 ---
 
-#  About Me
+# À propos de moi
 
-I'm a Master 2 student specializing in **Big Data & Artificial Intelligence**, passionate about building **end-to-end Data Science solutions** that solve real business problems.
+Je suis actuellement étudiant en **Master 2 Big Data & Intelligence Artificielle**, avec un intérêt particulier pour la **Data Science**, le **Machine Learning** et l’**Intelligence Artificielle appliquée**.
 
-My interests include:
+J’aime concevoir des projets de bout en bout, depuis la compréhension du besoin métier et la préparation des données jusqu’à la modélisation, l’interprétation des résultats et le déploiement d’applications interactives.
 
--  Machine Learning
--  Data Science
--  Explainable AI
--  Business Analytics
--  Streamlit Applications
--  Predictive Modeling
--  Graph Machine Learning
+Mes principaux centres d’intérêt sont :
 
-I enjoy transforming raw datasets into intelligent models and interactive applications that support real-world decision making.
+- Machine Learning
+- Data Science
+- Intelligence Artificielle explicable
+- Business Analytics
+- Applications Streamlit
+- Modélisation prédictive
+- Graph Machine Learning
+
+Mon objectif est de transformer des données brutes en analyses utiles, en modèles fiables et en solutions concrètes capables d’accompagner la prise de décision.
 
 ---
 
-#  Tech Stack
+# Stack technique
 
-## Programming
+## Langages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
+## Data Science et Machine Learning
 
-## Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-2E9EF7?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5B33?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+## Visualisation et Business Intelligence
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+## Déploiement et développement
 
-![SHAP](https://img.shields.io/badge/SHAP-ExplainableAI-blue?style=for-the-badge)
-
-![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
-
-![LightGBM](https://img.shields.io/badge/LightGBM-green?style=for-the-badge)
-
----
-
-## Visualization
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
-
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Deployment
+# Projets mis en avant
 
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+## Customer NPS Prediction — Télécommunications
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+**Challenge technique Artefact — Junior Data Scientist**
 
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+Projet complet de Data Science visant à prédire la catégorie **Net Promoter Score** de clients d’un opérateur télécom avant leur réponse à une enquête de satisfaction.
 
----
+Le projet comprend :
 
-#  Featured Projects
+- un pipeline de Machine Learning de bout en bout ;
+- la préparation et l’analyse exploratoire des données ;
+- la comparaison de plusieurs modèles de classification ;
+- un modèle final basé sur Random Forest ;
+- l’interprétation globale et individuelle avec SHAP ;
+- une application Streamlit multipage ;
+- la prédiction individuelle et par lot ;
+- des recommandations orientées métier.
 
-##  Customer NPS Prediction 
-
-**Artefact Junior Data Scientist Technical Challenge**
-
-An end-to-end Machine Learning project for predicting customer satisfaction in the telecommunications industry.
-
-### Highlights
-
-- End-to-End ML Pipeline
-- Random Forest
-- SHAP Explainability
-- Streamlit Application
-- Individual Prediction
-- Batch Prediction
-- Business Recommendations
-
-**Repository**
-
- https://github.com/angedesire-boua/customer-nps-prediction
+[Consulter le projet](https://github.com/angedesire-boua/customer-nps-prediction)
 
 ---
 
-##  Credit Risk Prediction
+## Prédiction du risque de crédit
 
-Machine Learning application for predicting customer default risk.
+Application de Machine Learning permettant d’estimer le risque de défaut de paiement d’un client à partir de données financières et comportementales.
 
- https://github.com/angedesire-boua/credit-risk-prediction
+Le projet comprend le prétraitement des données, le Feature Engineering, la comparaison de plusieurs modèles et la création d’une interface de prédiction.
 
----
-
-##  House Price Prediction
-
-End-to-end regression project with Streamlit deployment.
-
- https://github.com/angedesire-boua/house-price-prediction
+[Consulter le projet](https://github.com/angedesire-boua/credit-risk-prediction)
 
 ---
 
-##  Supermarket Sales Analysis
+## Prédiction du prix des maisons
 
-Business Intelligence and Exploratory Data Analysis project.
+Projet de régression visant à estimer le prix d’un bien immobilier à partir de ses caractéristiques.
 
- https://github.com/angedesire-boua/supermarket-sales-analysis
+Le projet comprend une analyse exploratoire, un modèle Random Forest et une application Streamlit permettant de réaliser des prédictions interactives.
 
----
-
-##  Sales Dashboard (Power BI)
-
-Interactive dashboard for commercial performance monitoring.
-
- https://github.com/angedesire-boua/product-sales-dashboard-powerbi
+[Consulter le projet](https://github.com/angedesire-boua/house-price-prediction)
 
 ---
 
-#  Currently Working On
+## Analyse des ventes d’un supermarché
 
--  Master's Thesis:
-  **Dynamic Graph Neural Networks for Mobile Money Fraud Detection**
+Projet d’analyse exploratoire consacré à l’étude des ventes, des produits, des villes et des comportements d’achat.
 
--  Explainable AI
+L’objectif est de transformer les données de vente en indicateurs et en recommandations utiles à la prise de décision.
 
--  Advanced Machine Learning
-
--  MLOps
-
--  Graph Machine Learning
+[Consulter le projet](https://github.com/angedesire-boua/supermarket-sales-analysis)
 
 ---
 
-#  Career Objective
+## Dashboard commercial avec Power BI
 
-I am currently looking for opportunities as:
+Tableau de bord interactif permettant de suivre les principaux indicateurs de performance commerciale, d’analyser les ventes et d’identifier les produits ou segments les plus performants.
 
-- Data Scientist Intern
-- Machine Learning Intern
-- Data Analyst Intern
-
-where I can contribute to impactful AI projects while continuing to grow as a Data Science professional.
+[Consulter le projet](https://github.com/angedesire-boua/product-sales-dashboard-powerbi)
 
 ---
 
-#  Connect with Me
+# Projet en cours
 
- LinkedIn
+Je travaille actuellement sur mon projet de fin d’études consacré à la :
 
-https://www.linkedin.com/in/ange-désiré-boua-661074274
+## Détection de fraude Mobile Money par apprentissage dynamique sur graphes
 
+Ce projet explore l’utilisation du Graph Machine Learning et des Graph Neural Networks dynamiques afin de détecter des comportements frauduleux dans des réseaux de transactions Mobile Money.
 
+Les principaux axes de travail sont :
+
+- détection de fraude ;
+- construction de graphes de transactions ;
+- Graph Neural Networks ;
+- apprentissage temporel et dynamique ;
+- interprétabilité des modèles ;
+- développement d’une interface analytique.
+
+---
+
+# Objectif professionnel
+
+Je suis actuellement à la recherche d’un **stage de fin d’études** dans les domaines de la Data et de l’Intelligence Artificielle, notamment pour des missions de :
+
+- Data Science ;
+- Machine Learning ;
+- Analyse de données ;
+- Intelligence Artificielle appliquée ;
+- Data Engineering.
+
+Je souhaite intégrer une équipe dans laquelle je pourrai contribuer à des projets concrets, approfondir mes compétences techniques et participer à la création de solutions utiles et orientées impact.
+
+---
+
+# Me contacter
+
+**LinkedIn**
+
+[Ange Désiré Boua](https://www.linkedin.com/in/ange-désiré-boua-661074274)
+
+**Email**
 
 angedesireboua@gmail.com
 
- GitHub
+**GitHub**
 
-https://github.com/angedesire-boua
+[github.com/angedesire-boua](https://github.com/angedesire-boua)
 
 ---
 
 <div align="center">
 
-###  Thanks for visiting my profile!
+## Merci de votre visite
 
-*"Turning data into intelligent solutions."*
+*Transformer les données en solutions intelligentes au service de la décision.*
 
 </div>

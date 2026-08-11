@@ -67,9 +67,9 @@ Mon objectif est de transformer des données brutes en analyses utiles, en modè
 
 # Projets mis en avant
 
-## Customer NPS Prediction — Télécommunications
+## Customer NPS Prediction - Télécommunications
 
-**Challenge technique Artefact — Junior Data Scientist**
+**Challenge technique Artefact - Junior Data Scientist**
 
 Projet complet de Data Science visant à prédire la catégorie **Net Promoter Score** de clients d’un opérateur télécom avant leur réponse à une enquête de satisfaction.
 

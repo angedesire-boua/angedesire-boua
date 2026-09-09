@@ -171,7 +171,7 @@ angedesireboua@gmail.com
 
 **Portefolio**
 
-[github.com/angedesire-boua](https://angedesireboua.netlify.app/)
+[angedesire-boua.com](https://angedesireboua.netlify.app/)
 
 ---
 

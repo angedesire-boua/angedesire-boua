@@ -169,9 +169,9 @@ Je souhaite intégrer une équipe dans laquelle je pourrai contribuer à des pro
 
 angedesireboua@gmail.com
 
-**GitHub**
+**Portefolio**
 
-[github.com/angedesire-boua](https://github.com/angedesire-boua)
+[github.com/angedesire-boua](https://angedesireboua.netlify.app/)
 
 ---
 
